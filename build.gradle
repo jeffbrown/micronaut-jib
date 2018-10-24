@@ -45,4 +45,3 @@ mainClassName = "micronaut.jib.Application"
 
 /** CHANGE THIS TO THE IMAGE YOU WANT TO PUSH TO */
 // jib.to.image = 'gcr.io/PROJECT_ID/micronaut-jib'
-mainClassName = "micronaut.jib.Application"
