@@ -1,11 +1,10 @@
 plugins {
+    id "application"
+    id "groovy"
     id "io.spring.dependency-management" version "1.0.6.RELEASE"
     id "com.github.johnrengelman.shadow" version "4.0.0"
     id "com.google.cloud.tools.jib" version "0.9.12"
 }
-
-apply plugin:"application"
-apply plugin:"groovy"
 
 version "0.1"
 group "micronaut.jib"
